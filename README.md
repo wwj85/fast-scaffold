@@ -1,1 +1,2 @@
-# fast-scaffold
+# fast-cli
+## 这是一个简易的单页应用脚手架
